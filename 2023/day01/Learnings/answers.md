@@ -7,7 +7,8 @@
 -   **Visualizing a DevOps process:**
     - It can be thought of as an infinite loop, as depicted by the picture below:
 
-        ![Alt text](image.png)
+        <!-- ![Alt text](image.png) -->
+        <img src="./image.png" width=60% height=30%>
 
 ## 2. What is Automation, Scaling, Infrastructure?
 - **Automation** : 
