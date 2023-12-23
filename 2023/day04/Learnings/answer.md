@@ -1,8 +1,12 @@
+## *Background*
+
 A shell is a user interface that allows users to interact with the systems's services, utilities while also allowing execution of commands. It acts as an intermediary between the user and the operating system to facilitate communication between the two.
 
 **Linux Scripting** in simple terms means the developement of scripts using shell programming languages on a UNIX-based operating system. E.g. bash script, zsh script, etc. It is generally used to automate tasks(using cron), make/edit system configs(installation files), write a program(e.g. neofetch) and perhaps for administration on a Linux system.
 
-## 1. What is Shell scripting for DevOps?
+---
+
+## 1. Explain in your own words and examples, what is Shell Scripting for DevOps.
 
 Shell Scripting for DevOps largely implies using shell programming to automate DevOps tasks and processes. It is to ensure proper sequencing of operations, smooth workflows and managing infrastructure.
 
