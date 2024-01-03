@@ -98,19 +98,19 @@ git config --global user.email "id@gmail.com"
 
 * ### Create a repository named "Devops" on GitHub
     
-* ![](1.png)
+* ![create repository](1.png)
     
 * ### Connect your local repository to the repository on GitHub.
     
-* ![](2.png)
+* ![connect local to remote](2.png)
     
 * ### Create a new file in Devops/Git/Day-02.txt & add some content to it
     
-* ![](3.png)
+* ![add file](3.png)
     
 * ### Push your local commits to the repository on GitHub
     
-* ![](4.png)
+* ![push commits](4.png)
     
 
 ### Happy Learning ;)
