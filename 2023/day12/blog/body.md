@@ -2,7 +2,9 @@
 
 ## 90DaysOfDevOps
 
-## Git cheatsheet
+## Git cheatsheet 
+
+[Link to cheatsheet](https://github.com/akshaykhoje/90DaysOfDevOps/blob/akshay_work/2023/day12/Git%20Cheatsheet.pdf)
 
 Git is a Free and Open Source Software **(FOSS)**. It is a Distributed Version Control System**(DVCS).** It was a project started by [**Linus Torvalds**](https://youtu.be/o8NPllzkFhE) - also the founder of The Linux Kernel. GitLab and GitHub are two most popular web-hosting platforms for Git repositories of which GitLab is again FOSS while GitHub is a subsidiary of Microsoft and is closed-source, proprietary.
 
