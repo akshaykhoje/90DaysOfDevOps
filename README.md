@@ -2,7 +2,7 @@
 
 ## Learn, Upskill, Grow with the Community
 
-Join our DevOps community challenge starting on January 1st, 2023 and embark on a 90-day journey to become a better DevOps practitioner. This repository serves as an open invitation to all DevOps enthusiasts who are looking to enhance their skills and knowledge. By participating in this challenge, you will have the opportunity to learn from others in the community, collaborate with like-minded individuals, and ultimately strengthen your DevOps abilities.
+Join our DevOps community challenge and embark on a 90-day journey to become a better DevOps practitioner. This repository serves as an open invitation to all DevOps enthusiasts who are looking to enhance their skills and knowledge. By participating in this challenge, you will have the opportunity to learn from others in the community, collaborate with like-minded individuals, and ultimately strengthen your DevOps abilities.
 
 Let's come together to grow and achieve new heights in DevOps!
 
@@ -55,7 +55,7 @@ Let's come together to grow and achieve new heights in DevOps!
   </a>&ensp;
 
 ### DevOps Course:
-<a href="https://bit.ly/devops-batch-5">
+<a href="https://bit.ly/devops-batch-7">
   <img width="30px" src="https://media.licdn.com/dms/image/C4D0BAQGokBZsFEUWHw/company-logo_200_200/0/1677354328695?e=1700092800&v=beta&t=3bw7W2tQEpn023Slj_PacUZflE-OyYpBU-9juiJNJVY" />
 </a>&ensp;
 
